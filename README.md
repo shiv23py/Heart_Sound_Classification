@@ -14,8 +14,8 @@
 
 ![Top 20 features](figures/Top 20 features.png)
 
-##PCA
+## PCA
 ![PCA](figures/PCA.png)
 
-##Confusion Matrix
+## Confusion Matrix
 ![Confusion Matrix](figures/confusion_matrix.png)
